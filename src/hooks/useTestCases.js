@@ -11,6 +11,21 @@ const useTestCases = () => {
       url: `${process.env.PUBLIC_URL}/test_cases/0002.svg`,
       checked: false,
     },
+    {
+      description: "title tag",
+      url: `${process.env.PUBLIC_URL}/test_cases/0003.svg`,
+      checked: false,
+    },
+    {
+      description: "desc tag",
+      url: `${process.env.PUBLIC_URL}/test_cases/0004.svg`,
+      checked: false,
+    },
+    {
+      description: "text tag",
+      url: `${process.env.PUBLIC_URL}/test_cases/0005.svg`,
+      checked: false,
+    },
   ]);
 
   return { testCases, setTestCases };

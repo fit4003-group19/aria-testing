@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/aria-testing/static/css/main.7cdb91f6.chunk.css",
-    "main.js": "/aria-testing/static/js/main.945c1da1.chunk.js",
-    "main.js.map": "/aria-testing/static/js/main.945c1da1.chunk.js.map",
+    "main.js": "/aria-testing/static/js/main.705a5e39.chunk.js",
+    "main.js.map": "/aria-testing/static/js/main.705a5e39.chunk.js.map",
     "runtime-main.js": "/aria-testing/static/js/runtime-main.02b2e1b5.js",
     "runtime-main.js.map": "/aria-testing/static/js/runtime-main.02b2e1b5.js.map",
-    "static/js/2.7d608b28.chunk.js": "/aria-testing/static/js/2.7d608b28.chunk.js",
-    "static/js/2.7d608b28.chunk.js.map": "/aria-testing/static/js/2.7d608b28.chunk.js.map",
+    "static/js/2.6e36e7fe.chunk.js": "/aria-testing/static/js/2.6e36e7fe.chunk.js",
+    "static/js/2.6e36e7fe.chunk.js.map": "/aria-testing/static/js/2.6e36e7fe.chunk.js.map",
     "static/js/3.e4e6fa03.chunk.js": "/aria-testing/static/js/3.e4e6fa03.chunk.js",
     "static/js/3.e4e6fa03.chunk.js.map": "/aria-testing/static/js/3.e4e6fa03.chunk.js.map",
     "index.html": "/aria-testing/index.html",
     "static/css/main.7cdb91f6.chunk.css.map": "/aria-testing/static/css/main.7cdb91f6.chunk.css.map",
-    "static/js/2.7d608b28.chunk.js.LICENSE.txt": "/aria-testing/static/js/2.7d608b28.chunk.js.LICENSE.txt",
+    "static/js/2.6e36e7fe.chunk.js.LICENSE.txt": "/aria-testing/static/js/2.6e36e7fe.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/aria-testing/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.02b2e1b5.js",
-    "static/js/2.7d608b28.chunk.js",
+    "static/js/2.6e36e7fe.chunk.js",
     "static/css/main.7cdb91f6.chunk.css",
-    "static/js/main.945c1da1.chunk.js"
+    "static/js/main.705a5e39.chunk.js"
   ]
 }

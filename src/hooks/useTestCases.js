@@ -26,6 +26,11 @@ const useTestCases = () => {
       url: `${process.env.PUBLIC_URL}/test_cases/0005.svg`,
       checked: false,
     },
+    {
+      description: "<title id=> tag",
+      url: `${process.env.PUBLIC_URL}/test_cases/0006.svg`,
+      checked: false,
+    },
   ]);
 
   return { testCases, setTestCases };

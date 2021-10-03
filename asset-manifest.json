@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aria-testing/static/css/main.7cdb91f6.chunk.css",
-    "main.js": "/aria-testing/static/js/main.705a5e39.chunk.js",
-    "main.js.map": "/aria-testing/static/js/main.705a5e39.chunk.js.map",
+    "main.js": "/aria-testing/static/js/main.dfc7bc68.chunk.js",
+    "main.js.map": "/aria-testing/static/js/main.dfc7bc68.chunk.js.map",
     "runtime-main.js": "/aria-testing/static/js/runtime-main.02b2e1b5.js",
     "runtime-main.js.map": "/aria-testing/static/js/runtime-main.02b2e1b5.js.map",
     "static/js/2.6e36e7fe.chunk.js": "/aria-testing/static/js/2.6e36e7fe.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.02b2e1b5.js",
     "static/js/2.6e36e7fe.chunk.js",
     "static/css/main.7cdb91f6.chunk.css",
-    "static/js/main.705a5e39.chunk.js"
+    "static/js/main.dfc7bc68.chunk.js"
   ]
 }

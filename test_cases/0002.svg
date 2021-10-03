@@ -113,31 +113,25 @@
         <g id="room-6" tabindex="1" data-layer-flag="1"  data-layer="root" class="color-1" data-layer-state="1" role="img" aria-label="Room 6" aria-describedby="room-6--desc">
             <desc id="room-6--desc">Room 6 is grand</desc>
             <path id="Vector" d="M668 4H851V187H668V4Z" data-layer="bg" />
-            <text data-layer="txt"><tspan x="692" y="106.98">Room 6</tspan></text>
         </g>
         <g id="room-1" tabindex="2" data-layer-flag="3" data-layer="root" class="color-2" data-layer-state="1" role="img" aria-label="Room 1" aria-describedby="room-1--desc">
             <desc id="room-1--desc">Room 1 is big</desc>
             <path id="Vector_6" d="M4 4H187V187H4V4Z" fill="#785EF0" data-layer="bg"/>
-            <text data-layer="txt"><tspan x="29" y="106.98" >Room 1</tspan></text>
         </g>
         <g id="room-3" tabindex="2" data-layer-flag="4" data-layer="root" class="color-3" data-layer-state="1" role="img" aria-label="Room 3" aria-describedby="room-3--desc">
             <desc id="room-3--desc">Room 3 is large</desc>
             <path d="M225 4H408V187H225V4Z" data-layer="bg"/>
-            <text data-layer="txt"><tspan x="249" y="106.98" >Room 3</tspan></text>
         </g>
         <g id="room-2" tabindex="2" data-layer-flag="8" data-layer="root" class="color-4" data-layer-state="1" role="img" aria-label="Room 2" aria-describedby="room-2--desc">
             <desc id="room-2--desc">Room 2 is small</desc>
             <path d="M4 225H408V408H4V225Z" data-layer="bg"/>
-            <text data-layer="txt"><tspan x="151" y="327.98" >Room 2</tspan></text>
         </g>
         <g id="room-5" tabindex="2" data-layer-flag="16" data-layer="root" class="color-1" data-layer-state="0" role="img" aria-label="Room 5" aria-describedby="room-5--desc">
             <desc id="room-5--desc">Room 5 is old</desc>           
             <path id="Vector_2" d="M668 222H851V405H668V222Z" data-layer="bg"/>
-            <text data-layer="txt"><tspan x="692" y="324.98" >Room 5</tspan></text>
         </g>
         <g id="room-4" tabindex="3" data-layer="root" data-layer-state="-1" role="img" aria-label="Room 4" aria-describedby="room-4--desc">
             <desc id="room-4--desc">Room 4 is red</desc>
             <path d="M447 4H630V408H447V4Z" data-layer="bg"/>
-            <text data-layer="txt"><tspan x="467" y="217.98" >Room 4</tspan></text>
         </g>
     </svg>
